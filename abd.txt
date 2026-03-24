@@ -9,4 +9,3 @@ git add "file name"
 git add. : file track 
 git commit -m "message"
 priya
-om
