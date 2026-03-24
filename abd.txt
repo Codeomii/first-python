@@ -1,0 +1,10 @@
+git init
+git add "file tracking"
+
+
+git : version control
+git init : empty repo initlize
+git add 
+git add "file name"
+git add. : file track 
+git commit -m "message"
